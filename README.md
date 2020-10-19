@@ -3,7 +3,7 @@
 # Python-trivia 
 *Ricardo Fuentes y Nayely Iturbe*
 
-*Data Analytics PT, Ciudad de México*
+*Data Analytics PT, Ciudad de México.*
 
 ## Contenido
 - [Descripción del proyecto](#project-description)
