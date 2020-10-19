@@ -14,7 +14,7 @@
 <a name="project-description"></a>
 
 ## Descripción del proyecto
-Python-trivia es un juego que nos permite revisar y repasar algunos de los temas de Python de forma interactiva. En este primer demo se muestran preguntas al azar de algunos de los temas fundamentales para data analytics, buscando que los usuarios estudien y exploren algunos de los conceptos básicos de programación.
+Python-trivia es un juego que nos permite revisar y repasar algunos de los temas de Python de forma interactiva. En este primer demo se muestran preguntas al azar de algunos de los temas fundamentales para data analytics, buscando que los usuarios estudien y exploren los conceptos básicos de programación.
 
 <a name="workflow"></a>
 
