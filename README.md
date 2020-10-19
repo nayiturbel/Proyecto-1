@@ -1,11 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Python basics trivia 
-*Ricardo Fuentes* 
-*Nayely Iturbe*
+*Ricardo Fuentes y Nayely Iturbe*
 
-*Data Analytics PT*
-*Ciudad de México*
+*Data Analytics PT, Ciudad de México*
 
 ## Contenido
 - [Project Description](#project-description)
