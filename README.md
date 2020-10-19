@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Python basics trivia 
+# Python-trivia 
 *Ricardo Fuentes y Nayely Iturbe*
 
 *Data Analytics PT, Ciudad de México*
@@ -14,7 +14,7 @@
 <a name="project-description"></a>
 
 ## Descripción del proyecto
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Python-trivia es un juego que nos permite revisar y repasar algunos de los temas de Python de forma interactiva. En este primer demo se muestran preguntas al azar de algunos de los temas fundamentales para data analytics, buscando que los usuarios estudien y exploren algunos de los conceptos básicos de programación.
 
 <a name="workflow"></a>
 
