@@ -8,7 +8,7 @@
 ## Contenido
 - [Descripción del proyecto](#project-description)
 - [Workflow](#workflow)
-- [Organization](#organization)
+- [Organización](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
@@ -23,7 +23,7 @@ Outline the workflow you used in your project. What were the steps you went thro
 
 <a name="organization"></a>
 
-## Organization
+## Organización
 How did you organize yourself? Did you use any tools?
 
 <a name="links"></a>
