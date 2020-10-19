@@ -6,14 +6,14 @@
 *Data Analytics PT, Ciudad de México*
 
 ## Contenido
-- [Project Description](#project-description)
+- [Descripción del proyecto](#project-description)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
 
-## Project Description
+## Descripción del proyecto
 Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
 
 <a name="workflow"></a>
