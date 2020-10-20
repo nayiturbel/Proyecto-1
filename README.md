@@ -19,7 +19,7 @@ Python-trivia es un juego que nos permite revisar y repasar algunos de los temas
 <a name="workflow"></a>
 
 ## Workflow
-![alt text](https://raw.githubusercontent.com/nayiturbel/Proyecto-1/main/PythonTrivia.png)
+![alt text](https://raw.githubusercontent.com/nayiturbel/Proyecto-1/main/Trivia.png)
 
 <a name="organization"></a>
 
