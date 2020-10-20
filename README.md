@@ -24,9 +24,8 @@ Python-trivia es un juego que nos permite revisar y repasar algunos de los temas
 <a name="organization"></a>
 
 ## Organización
-How did you organize yourself? Did you use any tools?
+
 
 <a name="links"></a>
 
 ## Links
-Include the links to your repository and slides. Feel free to include any other links associated to your project. 
