@@ -24,7 +24,7 @@ Python-trivia es un juego que nos permite revisar y repasar algunos de los temas
 <a name="organization"></a>
 
 ## Organización
-
+El programa está organizado en tres niveles distintos de dificultad. Funciona a partir de condicionales y diccionarios, permitiendo acumular los puntos de cada jugador.
 
 <a name="links"></a>
 
