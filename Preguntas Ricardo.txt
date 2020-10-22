@@ -1,0 +1,21 @@
+1. dic-set-tuplas:
+	1. Las tuplas son mutables. R.- Falso
+	2. Las tuplas se definen con []. R.- Falso
+	3. Los diccionarios están compuestos por "Keys" y "Values". R.- True
+	4. Podemos acceder a los valores de los diccionarios con los metodos keys() y values(). R.- True
+	5. Los sets son inmutables, como las tuplas. R.- Falso
+	6. Los sets nos permiten relizar analisis de valores unicos. R.- True
+
+2. funciones:
+	1. Las funciones son un conjunto de codigo que en conjunto retornan un resultado. R.- True
+	2. La palabra reservada para inciar una funcion es: "Lambda". R.- False
+	3. Todas las funciones deben terminar con un "return". R.- False
+	4. Las variable locales de las funciones, pueden ser llamadas en otras funciones. R.- False
+	5. Las funciones solo pueden ser llamadas una sola vez. R.- False
+
+3. lambdas:
+	1. La palabra reservada para inciar una lambda es: def. R.- False
+	2. Otro nombre de las "Lambdas" es "Anonimas". R.- True
+	3. Todas las lambdas pueden ser funciones, no todas las funciones pueden ser lambdas. R.- True
+	4. Una lambda no puede estár dentro de una Funcion. R.- False
+	5. Una lambda utiliza la misma sitaxis que una funcion. R.- False
